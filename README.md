@@ -1,42 +1,43 @@
 # proyectosHackathonUGR
+
 Listado de proyectos que participan en el Certamen de Proyectos Libres de la UGR:
 
-- APRIL: una aventura de texto con puzles lógicos en C++.
+- **APRIL**: una aventura de texto con puzles lógicos en C++.
+  - Repositorio: https://github.com/terceranexus6/APRIL
   - Presentación:
-  - Repositorio:
   - Twitter:
 
-- Apuntes DGIIM: apuntes colaborativos del Doble Grado en Informática y Matemáticas.
+- **Apuntes DGIIM**: apuntes colaborativos del Doble Grado en Informática y Matemáticas.
+  - Repositorio: https://github.com/libreim/apuntesDGIIM/
   - Presentación:
-  - Repositorio:
   - Twitter:
 
-- CleLex: script para corregir fallos de estilo en C/C++.
+- **CleLex**: script para corregir fallos de estilo en C/C++.
+  - Repositorio: https://github.com/CleLex/CleLex
   - Presentación:
-  - Repositorio:
   - Twitter:
 
-- Rutavis: herramienta para visualizaciones de técnicas de Deep Learning no supervisado.
+- **Rutavis**: herramienta para visualizaciones de técnicas de Deep Learning no supervisado.
+  - Repositorio: https://github.com/fdavidcl/dlvisr
   - Presentación:
-  - Repositorio:
   - Twitter:
 
-- Small disjuncts: implementación de un paquete en R para clasificación desbalanceada.
+- **Small disjuncts**: implementación de un paquete en R para clasificación desbalanceada.
+  - Repositorio: https://github.com/NCordon/small-disjuncts
   - Presentación:
-  - Repositorio:
   - Twitter:
 
-- StudentsManagementSystem: sistema para centros docentes que agiliza y mejora la gestión de estudiantes haciéndola más simple y eficiente.
+- **StudentsManagementSystem**: sistema para centros docentes que agiliza y mejora la gestión de estudiantes haciéndola más simple y eficiente.
+  - Repositorio: https://github.com/ButterFlyDevs/StudentsManagementSystem
   - Presentación:
-  - Repositorio:
   - Twitter:
 
-- The Spyder Girl: herramienta para analizar las interacciones que recibimos en nuestras redes sociales y poder determinar el perfil medio que interactúa con nosotros.
+- **The Spyder Girl**: herramienta para analizar las interacciones que recibimos en nuestras redes sociales y poder determinar el perfil medio que interactúa con nosotros.
+  - Repositorio: https://geekandtechgirls.github.io/The-Spyder-Girl/
   - Presentación:
-  - Repositorio:
   - Twitter:
 
-- Torrent Music Player: Reproductor de música mediante archivos Torrents.
+- **Torrent Music Player**: Reproductor de música mediante archivos Torrents.
+  - Repositorio: https://geekandtechgirls.github.io/The-Spyder-Girl/
   - Presentación:
-  - Repositorio:
   - Twitter:
