@@ -4,11 +4,7 @@ Desde hace varios años la Oficina de Software Libre de la Universidad de Granad
 
 Precisamente para ayudar a fomentar esa filosofía de colaboración, todos los años realizamos al menos un hackatón en el que cada uno de los grupos participantes exponen la idea de su proyecto, así todo el mundo puede conocerlos mejor y de paso encontrar colaboradores que les ayuden de cualquier forma, ya sea completando tareas concretas necesarias para la realización del proyecto o dándoles nuevas ideas para el planteamiento del mismo.
 
-<u>
-  <em>Listado de proyectos que participan en el Certamen de Proyectos Libres de la UGR</em>
-</u>
-
-:
+<u>_Listado de proyectos que participan en el Certamen de Proyectos Libres de la UGR_</u>:
 
 - **APRIL**: una aventura de texto con puzles lógicos en C++.
 
