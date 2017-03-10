@@ -1,5 +1,9 @@
 # Proyectos #HackathonUGR
 
+Desde hace varios años la Oficina de Software Libre de la Universidad de Granada realiza el **Certamen de Proyectos Libres de la UGR** con el objetivo de promover la producción, el conocimiento y el uso del software, hardware y documentación libres y la filosofía de colaboración y comunidad asociada a ellos, premiando a proyectos y colaboraciones realizadas en el ámbito académico y educativo. Las bases del propio certamen están publicadas [aquí](http://osl.ugr.es/bases-de-los-premios-a-proyectos-libres-de-la-ugr/).
+
+Precisamente para ayudar a fomentar esa filosofía de colaboración, todos los años realizamos al menos un hackatón en el que cada uno de los grupos participantes exponen la idea de su proyecto, así todo el mundo puede conocerlos mejor y de paso encontrar colaboradores que les ayuden de cualquier forma, ya sea completando tareas concretas necesarias para la realización del proyecto o dándoles nuevas ideas para el planteamiento del mismo.
+
 Listado de proyectos que participan en el Certamen de Proyectos Libres de la UGR:
 
 - **APRIL**: una aventura de texto con puzles lógicos en C++.
