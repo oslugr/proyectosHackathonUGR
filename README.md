@@ -1,4 +1,4 @@
-# proyectosHackathonUGR
+# Proyectos #HackathonUGR
 
 Listado de proyectos que participan en el Certamen de Proyectos Libres de la UGR:
 
@@ -33,11 +33,11 @@ Listado de proyectos que participan en el Certamen de Proyectos Libres de la UGR
   - Twitter:
 
 - **The Spyder Girl**: herramienta para analizar las interacciones que recibimos en nuestras redes sociales y poder determinar el perfil medio que interactúa con nosotros.
-  - Repositorio: https://geekandtechgirls.github.io/The-Spyder-Girl/
-  - Presentación:
+  - Repositorio: https://github.com/geekandtechgirls/The-Spyder-Girl
+  - Presentación: https://geekandtechgirls.github.io/The-Spyder-Girl/
   - Twitter:
 
 - **Torrent Music Player**: Reproductor de música mediante archivos Torrents.
-  - Repositorio: https://geekandtechgirls.github.io/The-Spyder-Girl/
+  - Repositorio: https://github.com/rafaelleru/torrent_player
   - Presentación:
   - Twitter:
