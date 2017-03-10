@@ -39,5 +39,5 @@ Listado de proyectos que participan en el Certamen de Proyectos Libres de la UGR
 
 - **Torrent Music Player**: Reproductor de música mediante archivos Torrents.
   - Repositorio: https://github.com/rafaelleru/torrent_player
-  - Presentación:
+  - Presentación: https://rafaelleru.github.io/torrent_player/
   - Twitter: https://twitter.com/rafaleyvaruiz
