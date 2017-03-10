@@ -9,7 +9,7 @@ Listado de proyectos que participan en el Certamen de Proyectos Libres de la UGR
 
 - **Apuntes DGIIM**: apuntes colaborativos del Doble Grado en Informática y Matemáticas.
   - Repositorio: https://github.com/libreim/apuntesDGIIM/
-  - Presentación:
+  - Presentación: https://github.com/libreim/apuntesDGIIM/blob/master/Presentaci%C3%B3n%20ApuntesDGIIM.pdf
   - Twitter: https://twitter.com/libreim_
 
 - **CleLex**: script para corregir fallos de estilo en C/C++.
